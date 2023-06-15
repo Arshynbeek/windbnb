@@ -1,0 +1,1 @@
+document.getElementById("adult-number"),document.getElementById("child-number"),document.getElementById("molecule-search-label__guest-text"),document.getElementById("molecule-search-block__guest-button-text");
